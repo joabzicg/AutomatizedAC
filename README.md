@@ -9,5 +9,5 @@
 ### • Then, the IR code is put in the .ino file, the IRRemote library is a modified one, to work with ESP32.
 ### • The ESP32 instantiates a webpage on local WIFI, an HTML with the controls to turn on or off the AC.
 
-### • The ESP32 with the IR emitter is put closely to the AC, and now it's possible to control the AC via internet from anywhere the globe with ngrok with you want :)
+### • The ESP32 with the IR emitter is put closely to the AC, and now it's possible to control the AC via internet from anywhere the globe with ngrok if you want :)
 ![](https://i.imgur.com/VRIvCGU.jpg)
